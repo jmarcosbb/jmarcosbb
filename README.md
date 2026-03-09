@@ -1,7 +1,7 @@
-<div align="center">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-batalha-5a764a144/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"/></a>
-<a href="https://discordapp.com/users/691130681236914177" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo"/></a>
-<a href="mailto:joaomarcosbb@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo"/></a>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-batalha-5a764a144/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+  <a href="https://discordapp.com/users/691130681236914177" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /></a>
+  <a href="mailto:joaomarcosbb@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /> </a>
 </div>
 
 
