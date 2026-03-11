@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Fullstack Developer with experience in web development, working on both the backend and frontend. Proficient in PHP, with a focus on the Laminas framework, and skilled in JavaScript for building dynamic and interactive user interfaces.<br><br>- 🔭 I’m working as fullstack developer<br>- 📚 IT - Bachelor's degree</p>
+<p align="left">Fullstack Developer with experience in web development, working on both the backend and frontend. Proficient in PHP, with a focus on the Laminas framework, laravel and skilled in JavaScript for building dynamic and interactive user interfaces.<br><br>- 🔭 I’m working as fullstack developer<br>- 📚 IT - Bachelor's degree</p>
 
 ###
 
@@ -26,14 +26,22 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="40" alt="zend logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
