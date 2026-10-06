@@ -2,13 +2,13 @@
 
 ---
 
-<h1 align="center">Hi, I'm João Marcos 👋</h1>
+<h1 align="center">Hi, I'm João Marcos </h1>
 
 <h3 align="center">Full Stack PHP Developer | Software Engineer | IT Professional</h3>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **Full Stack PHP Developer** with **3+ years of software development experience** and **10+ years working in Information Technology**.
 
@@ -16,24 +16,24 @@ I develop, maintain and evolve enterprise and government systems using **PHP, La
 
 Beyond software development, I have previous experience in **IT Management, Infrastructure, Databases, Information Security, Technical Support and Business Intelligence**, giving me a broad understanding of technology and business processes.
 
-### 🎓 Education
+###  Education
 
-* 🎓 Bachelor's Degree in Information Systems
-* 🎓 Postgraduate Degree in Business Intelligence
-* 🎓 Postgraduate Degree in Systems Analysis and Development
-* 🎓 Currently pursuing a Postgraduate Degree in Software Engineering
+*  Bachelor's Degree in Information Systems
+*  Postgraduate Degree in Business Intelligence
+*  Postgraduate Degree in Systems Analysis and Development
+*  Currently pursuing a Postgraduate Degree in Software Engineering
 
-### 🚀 Currently Learning
+###  Currently Learning
 
-* ☕ Java
-* 🐍 Python
-* 🤖 Artificial Intelligence
-* ⚙️ Process Automation
-* ☁️ Modern Software Engineering practices
+*  Java
+*  Python
+*  Artificial Intelligence
+*  Process Automation
+*  Modern Software Engineering practices
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <div align="left">
 
@@ -64,7 +64,7 @@ Beyond software development, I have previous experience in **IT Management, Infr
 
 ---
 
-## 💡 Interests
+##  Interests
 
 * Backend Development
 * Full Stack Development
@@ -77,6 +77,6 @@ Beyond software development, I have previous experience in **IT Management, Infr
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <!-- GitHub Stats Here -->
