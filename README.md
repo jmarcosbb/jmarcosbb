@@ -78,5 +78,5 @@ Beyond software development, I have previous experience in **IT Management, Infr
 ---
 
 ##  GitHub Stats
-
+![Meu painel de atividade](./2026-10-08_23-17.png)
 <!-- GitHub Stats Here -->
