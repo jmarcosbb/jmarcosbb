@@ -4,13 +4,13 @@
 
 <h1 align="center">Hi, I'm João Marcos </h1>
 
-<h3 align="center">Full Stack PHP Developer | Software Engineer | IT Professional</h3>
+<h3 align="center">Software Engineer | Full Stack | PHP Developer | IT Professional</h3>
 
 ---
 
 ##  About Me
 
-I'm a **Full Stack PHP Developer** with **3+ years of software development experience** and **10+ years working in Information Technology**.
+I'm a **Full Stack Software Engineer** with **3+ years of software development experience** and **10+ years working in Information Technology**.
 
 I develop, maintain and evolve enterprise and government systems using **PHP, Laminas (Zend Framework), Laravel, PostgreSQL, JavaScript, HTML, CSS and REST APIs**.
 
