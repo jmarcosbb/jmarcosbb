@@ -12,7 +12,7 @@
 
 I'm a **Full Stack Software Engineer** with **3+ years of software development experience** and **10+ years working in Information Technology**.
 
-I develop, maintain and evolve enterprise and government systems using **PHP, Laminas (Zend Framework), Laravel, PostgreSQL, JavaScript, HTML, CSS and REST APIs**.
+I develop, maintain and evolve enterprise and government systems using **PHP, Laminas (Zend Framework), Laravel, PostgreSQL, JavaScript and REST APIs**.
 
 Beyond software development, I have previous experience in **IT Management, Infrastructure, Databases, Information Security, Technical Support and Business Intelligence**, giving me a broad understanding of technology and business processes.
 
