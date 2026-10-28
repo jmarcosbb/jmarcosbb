@@ -1,82 +1,79 @@
-<div align="center"> <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-batalha-5a764a144/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a> <a href="https://discordapp.com/users/691130681236914177" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /></a> <a href="mailto:joaomarcosbb@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /> </a> </div>
 
----
+<div align="center">
 
-<h1 align="center">Hi, I'm João Marcos </h1>
+# João Marcos Batalha
 
-<h3 align="center">Software Engineer | Full Stack | PHP Developer | IT Professional</h3>
+### Software Engineer | Backend & Full Stack Developer
 
----
+Building and maintaining business-critical applications with PHP, PostgreSQL and modern software engineering practices.
 
-##  About Me
-
-I'm a **Full Stack Software Engineer** with **3+ years of software development experience** and **10+ years working in Information Technology**.
-
-I develop, maintain and evolve enterprise and government systems using **PHP, Laminas (Zend Framework), Laravel, PostgreSQL, JavaScript and REST APIs**.
-
-Beyond software development, I have previous experience in **IT Management, Infrastructure, Databases, Information Security, Technical Support and Business Intelligence**, giving me a broad understanding of technology and business processes.
-
-###  Education
-
-*  Bachelor's Degree in Information Systems
-*  Postgraduate Degree in Business Intelligence
-*  Postgraduate Degree in Systems Analysis and Development
-*  Currently pursuing a Postgraduate Degree in Software Engineering
-
-###  Currently Learning
-
-*  Java
-*  Python
-*  Artificial Intelligence
-*  Process Automation
-*  Modern Software Engineering practices
-
----
-
-##  Tech Stack
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcos-batalha-5a764a144/) · [Email](mailto:joaomarcosbb@gmail.com)
 
 </div>
 
 ---
 
-##  Interests
+## About Me
 
-* Backend Development
-* Full Stack Development
-* Software Engineering
-* Artificial Intelligence
-* Process Automation
-* Data Analysis & Business Intelligence
-* Clean Architecture
-* System Design
+I'm a Software Engineer with over 10 years of experience in Information Technology, including software development, IT operations, database management and business intelligence.
+
+My work focuses on developing, maintaining and improving enterprise and government applications, with an emphasis on backend development, database design, system integration and business process automation.
+
+### Core Expertise
+
+- Backend development with PHP, Laminas and Laravel
+- Relational databases, SQL and PostgreSQL
+- REST API development and system integration
+- Full stack development with JavaScript, HTML and CSS
+- Database optimization and maintenance of legacy systems
+- IT operations, infrastructure and business intelligence
+
+### Education
+
+- Bachelor's Degree in Information Systems
+- Postgraduate Degree in Business Intelligence
+- Postgraduate Degree in Systems Analysis and Development
+- Postgraduate Studies in Software Engineering — In Progress
+
+## Technology Stack
+
+**Backend**
+
+PHP · Laminas · Laravel · REST APIs
+
+**Databases**
+
+PostgreSQL · SQL
+
+**Frontend**
+
+JavaScript · HTML5 · CSS3
+
+**Tools & Infrastructure**
+
+Git · GitHub · Linux · Docker · Composer
+
+## Currently Exploring
+
+- Python and automation
+- Artificial intelligence applications
+- Software architecture and design patterns
+- Automated testing and continuous integration
+
+## Featured Projects
+
+Explore my repositories to see projects, implementation details and practical applications of the technologies I work with.
+
+<!-- Add your best public repositories here through GitHub's pinned repositories feature. -->
+
+## Professional Interests
+
+Backend Engineering · Software Architecture · Database Engineering · System Design · Automation · Artificial Intelligence
 
 ---
 
-##  GitLab Stats (private project)
-![My gitlab activity](./2026-10-08_23-17.png)
-<!-- GitHub Stats Here -->
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcos-batalha-5a764a144/)
+
+</div>
