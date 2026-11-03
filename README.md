@@ -6,6 +6,8 @@ Building and maintaining business-critical applications with PHP, PostgreSQL and
 
 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcos-batalha-5a764a144/) · [Email](mailto:joaomarcosbb@gmail.com)
 
+**Open to Remote Opportunities | Open to Relocation**
+
 ---
 
 ## About Me
@@ -13,6 +15,19 @@ Building and maintaining business-critical applications with PHP, PostgreSQL and
 I'm a Software Engineer with over 10 years of experience in Information Technology, including software development, IT operations, database management and business intelligence.
 
 My work focuses on developing, maintaining and improving enterprise and government applications, with an emphasis on backend development, database design, system integration and business process automation.
+
+I'm also a Java enthusiast, passionate about exploring its ecosystem and expanding my knowledge through personal projects and continuous learning.
+
+
+## Let's Work Together!
+
+I'm always open to exciting opportunities, collaborations and challenging projects.
+
+Whether you're looking for a developer to join your team, contribute to a remote project or collaborate on something new, I'd love to hear from you!
+
+- **Remote Work:** Available for remote positions and international projects.
+- **Relocation:** Open to relocating for the right professional opportunity.
+- **Collaboration:** Available for freelance projects, consulting and software development partnerships.
 
 ### Core Expertise
 
@@ -40,6 +55,7 @@ My work focuses on developing, maintaining and improving enterprise and governme
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laminas-000000?style=for-the-badge&logo=laminas&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
@@ -72,6 +88,7 @@ My work focuses on developing, maintaining and improving enterprise and governme
 
 ## Currently Exploring
 
+- Java and its ecosystem
 - Python and automation
 - Artificial intelligence applications
 - Software architecture and design patterns
@@ -81,6 +98,7 @@ My work focuses on developing, maintaining and improving enterprise and governme
 
 Explore my repositories to see projects, implementation details and practical applications of the technologies I work with.
 
+---
 
 ## Professional Interests
 
@@ -88,8 +106,15 @@ Backend Engineering · Software Architecture · Database Engineering · System D
 
 ---
 
+
+**Have an opportunity or a project in mind? Let's talk!**
+
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcos-batalha-5a764a144/) · [Email](mailto:joaomarcosbb@gmail.com)
+
+---
+
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcos-batalha-5a764a144/)
+*Feel free to reach out. Let's build something great together!*
 
 </div>
